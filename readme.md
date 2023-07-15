@@ -30,14 +30,6 @@
 
 ---
 
-# Project-Based Tutorials in C:
-
-### A curated list of C programming tutorials and projects that focus on hands-on learning.
-
-##### Repository URL: https://github.com/rby90/Project-Based-Tutorials-in-C
-
----
-
 # React for Beginners:
 
 ### A beginner-friendly course by Wes Bos that teaches React.js through video tutorials and practical exercises.
@@ -114,22 +106,6 @@
 
 ---
 
-# The Net Ninja:
-
-### A YouTube channel's repository with code examples, tutorials, and projects focused on web development.
-
-##### Repository URL: https://github.com/iamshaunjp
-
----
-
-# Android Basics:
-
-### A collection of projects and examples for learning Android app development from scratch.
-
-##### Repository URL: https://github.com/google-developer-training/android-basics-kotlin
-
----
-
 # 30 Seconds of Code:
 
 ### A curated collection of useful JavaScript code snippets for various programming tasks.
@@ -146,8 +122,3 @@
 
 ---
 
-# Roadmap to Learn AI:
-
-### A learning roadmap that guides beginners through the process of learning artificial intelligence and machine learning.
-
-##### Repository URL: https://github.com/leonardoaraujosantos/roadmap
