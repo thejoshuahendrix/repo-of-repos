@@ -54,14 +54,6 @@
 
 ---
 
-# Full Stack Open:
-
-### A comprehensive curriculum for learning full-stack web development with JavaScript, React, Node.js, and GraphQL.
-
-##### Repository URL: https://github.com/fullstackopen-2019/osa0
-
----
-
 # Build Your Own X:
 
 ### A repository containing resources and examples for building your own projects and tools from scratch.
