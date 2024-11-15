@@ -22,8 +22,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 
 ## freeCodeCamp:
 
----
-
 #### A nonprofit organization that offers a comprehensive curriculum for learning web development. It covers HTML, CSS, JavaScript, and various frameworks.
 
 ##### Repository URL: https://github.com/freeCodeCamp/freeCodeCamp
@@ -33,8 +31,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 ---
 
 ## Python Crash Course:
-
----
 
 #### A beginner-friendly book by Eric Matthes that teaches Python programming through practical projects and exercises.
 
@@ -46,8 +42,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 
 ## The Odin Project:
 
----
-
 #### A free and open-source curriculum for learning web development. It provides comprehensive resources and projects.
 
 ##### Repository URL: https://github.com/TheOdinProject/curriculum
@@ -57,8 +51,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 ---
 
 ## 30 Days of JavaScript:
-
----
 
 #### A collection of JavaScript exercises and mini-projects designed to improve your understanding of the language.
 
@@ -70,8 +62,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 
 ## React for Beginners:
 
----
-
 #### A beginner-friendly course by Wes Bos that teaches React.js through video tutorials and practical exercises.
 
 ##### Repository URL: https://github.com/wesbos/React-For-Beginners-Starter-Files
@@ -81,8 +71,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 ---
 
 ## Java Design Patterns:
-
----
 
 #### A collection of classic design patterns implemented in Java with detailed explanations.
 
@@ -94,8 +82,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 
 ## JavaScript30:
 
----
-
 #### A 30-day JavaScript challenge by Wes Bos that guides you through building 30 mini-projects using vanilla JavaScript.
 
 ##### Repository URL: https://github.com/wesbos/JavaScript30
@@ -106,8 +92,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 
 ## Build Your Own X:
 
----
-
 #### A repository containing resources and examples for building your own projects and tools from scratch.
 
 ##### Repository URL: https://github.com/danistefanovic/build-your-own-x
@@ -117,8 +101,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 ---
 
 ## Awesome Lists:
-
----
 
 #### A repository full of other resources and repositories for you to explore!
 
@@ -142,8 +124,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 
 ## Hiring Without Whiteboards:
 
----
-
 #### A repository that provides alternatives to traditional coding interviews without using whiteboard-based exercises.
 
 ##### Repository URL: https://github.com/poteto/hiring-without-whiteboards
@@ -151,8 +131,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 ---
 
 ## Public APIs:
-
----
 
 #### A collection of free and public APIs for use in software development and practice projects.
 
@@ -164,8 +142,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 
 ## CS50:
 
----
-
 #### Harvard University's Introduction to Computer Science course materials, including lectures, problem sets, and examples.
 
 ##### Repository URL: https://github.com/cs50
@@ -175,8 +151,6 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 ---
 
 ## 30 Seconds of Code:
-
----
 
 #### A curated collection of useful JavaScript code snippets for various programming tasks.
 
@@ -188,12 +162,8 @@ Make sure you have Node (https://nodejs.org/en) installed, otherwise you will no
 
 ## The Book of Secret Knowledge:
 
----
-
 #### A collection of awesome resources, tools, and libraries for software development and programming.
 
 ##### Repository URL: https://github.com/trimstray/the-book-of-secret-knowledge
-
----
 
 ---
