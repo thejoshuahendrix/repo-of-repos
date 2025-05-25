@@ -153,8 +153,6 @@ Ready to test your skills? Try these mini-projects:
 
 ---
 
-## 📚 Follow Along
-
 ## 📚 Detailed Learning Guide
 
 ### 1. **Variables & Data Types** 📊
